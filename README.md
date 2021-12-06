@@ -1,4 +1,4 @@
-## Docker VDI ![Taisun]
+## Docker VDI!
 
 Docker VDI is an application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 
