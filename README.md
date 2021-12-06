@@ -1,6 +1,6 @@
-## Docker VDI!
+## Remote VDI!
 
-Docker VDI is an application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
+Remote VDI is an application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 
 Taisun allows you to:
 
